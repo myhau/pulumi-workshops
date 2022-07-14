@@ -1,0 +1,3 @@
+config:
+  azure-native:location: westeurope
+  pulumi-workshop-vl2:environment: prod

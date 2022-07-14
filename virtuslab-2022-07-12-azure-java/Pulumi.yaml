@@ -1,0 +1,3 @@
+name: pulumi-workshop-vl2
+runtime: java
+description: A minimal Azure Native Java Pulumi program
